@@ -138,3 +138,5 @@
         </div>
     </body>
 </html>
+{{ asset('') }}
+{{ asset("") }}
